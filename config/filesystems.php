@@ -51,26 +51,15 @@ return [
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
-            'url' => '/storage',
+            'url' => env('APP_URL').'/storage',
             'visibility' => 'public',
         ],
-        'contract' => [
-            'driver' => 'local',
-            'root' => storage_path('app/contract'),
-            'url' => '/storage/contract',
-            'visibility' => 'public',
-        ],
-        'template_files' => [
-            'driver' => 'local',
-            'root' => storage_path('app/template_files'),
-            'url' => '/storage/template_files',
-            'visibility' => 'public',
-        ],
+
         's3' => [
             'driver' => 's3',
-            'key' => env('AWS_KEY'),
-            'secret' => env('AWS_SECRET'),
-            'region' => env('AWS_REGION'),
+            'key' => env('AWS_ACCESS_KEY_ID'),
+            'secret' => env('AWS_SECRET_ACCESS_KEY'),
+            'region' => env('AWS_DEFAULT_REGION'),
             'bucket' => env('AWS_BUCKET'),
         ],
 

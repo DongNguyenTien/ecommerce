@@ -304,9 +304,8 @@ trait HasRelationships
         $instance = $this->newRelatedInstance($related);
 
         $foreignKey = $foreignKey ?: $this->getForeignKey();
-        
-        $relatedKey = $relatedKey ?: $instance->getForeignKey();
 
+        $relatedKey = $relatedKey ?: $instance->getForeignKey();
 
         // If no table name was provided, we can guess it by concatenating the two
         // models using underscores in alphabetical order. The two model names

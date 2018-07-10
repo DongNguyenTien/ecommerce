@@ -50,22 +50,7 @@ return [
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
             'prefix' => '',
-            'strict' => false,
-            'engine' => null,
-        ],
-
-        'mysql_ftc' => [
-            'driver' => 'mysql',
-            'host' => env('DB_HOST_FTC', '128.199.197.249'),
-            'port' => env('DB_PORT_FTC', '3306'),
-            'database' => env('DB_DATABASE_FTC', 'ftc_insurance'),
-            'username' => env('DB_USERNAME_FTC', 'paditechdev'),
-            'password' => env('DB_PASSWORD_FTC', 'Padi@tech.2017'),
-            'unix_socket' => env('DB_SOCKET_FTC', ''),
-            'charset' => 'utf8mb4',
-            'collation' => 'utf8mb4_unicode_ci',
-            'prefix' => '',
-            'strict' => false,
+            'strict' => true,
             'engine' => null,
         ],
 
