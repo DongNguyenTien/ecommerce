@@ -177,70 +177,70 @@
 <script type="text/javascript" src="{{asset('/js/addToCart.js?v=5')}}"></script>
 <script type="text/javascript" src="{{asset('/js/init.js')}}"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
+{{--<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>--}}
 
 <!-- VOE App -->
-<script type="text/javascript" src="{{asset('/voevod/assets/scripts.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.blockUI.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/js.cookie.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/scripts.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.blockUI.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/js.cookie.min.js')}}"></script>--}}
 
-<script type="text/javascript" src="{{asset('/voevod/assets/woocommerce.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/woocommerce.min.js')}}"></script>--}}
 
-<script type="text/javascript" src="{{asset('/voevod/assets/cart-fragments.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/cart-fragments.min.js')}}"></script>--}}
 
-<script type="text/javascript" src="{{asset('/voevod/assets/frontend.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.prettyPhoto.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.selectBox.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/frontend.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.prettyPhoto.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.selectBox.min.js')}}"></script>--}}
 
 
 
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.yith-wcwl.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/core.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/widget.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/tabs.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/accordion.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/wp-mediaelement.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.appear.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/modernizr.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.yith-wcwl.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/core.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/widget.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/tabs.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/accordion.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/wp-mediaelement.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.appear.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/modernizr.min.js')}}"></script>--}}
 <script type="text/javascript" src="{{asset('/voevod/assets/jquery.hoverIntent.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.plugin.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/owl.carousel.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/waypoints.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/Chart.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.plugin.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/owl.carousel.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/waypoints.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/Chart.min.js')}}"></script>--}}
 <script type="text/javascript" src="{{asset('/voevod/assets/fluidvids.min.js')}}"></script>
 <script type="text/javascript" src="{{asset('/voevod/assets/jquery.prettyPhoto.min(1).js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/perfect-scrollbar.jquery.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/ScrollToPlugin.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/parallax.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.waitforimages.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.easing.1.3.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/isotope.pkgd.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/swiper.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/perfect-scrollbar.jquery.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/ScrollToPlugin.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/parallax.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.waitforimages.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.easing.1.3.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/isotope.pkgd.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/swiper.min.js')}}"></script>--}}
 <script type="text/javascript" src="{{asset('/voevod/assets/slick.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/packery-mode.pkgd.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.countdown.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/counter.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/absoluteCounter.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/typed.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.fullPage.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/easypiechart.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/curtain.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/jquery.multiscroll.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/select2.full.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/packery-mode.pkgd.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.countdown.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/counter.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/absoluteCounter.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/typed.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.fullPage.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/easypiechart.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/curtain.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.multiscroll.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/select2.full.min.js')}}"></script>--}}
 
-<script type="text/javascript" src="{{asset('/voevod/assets/js')}}"></script>
-<script type="text/javascript">
-    /* <![CDATA[ */
-    var edgtfGlobalVars = {"vars":{"edgtfAddForAdminBar":0,"edgtfElementAppearAmount":-100,"edgtfAjaxUrl":"http:\/\/voevod.edge-themes.com\/wp-admin\/admin-ajax.php","edgtfStickyHeaderHeight":0,"edgtfStickyHeaderTransparencyHeight":70,"edgtfTopBarHeight":0,"edgtfLogoAreaHeight":116,"edgtfMenuAreaHeight":116,"edgtfMobileHeaderHeight":70}};
-    var edgtfPerPageVars = {"vars":{"edgtfStickyScrollAmount":0,"edgtfHeaderTransparencyHeight":232,"edgtfHeaderVerticalWidth":0}};
-    /* ]]> */
-</script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/js')}}"></script>--}}
+{{--<script type="text/javascript">--}}
+    {{--/* <![CDATA[ */--}}
+    {{--var edgtfGlobalVars = {"vars":{"edgtfAddForAdminBar":0,"edgtfElementAppearAmount":-100,"edgtfAjaxUrl":"http:\/\/voevod.edge-themes.com\/wp-admin\/admin-ajax.php","edgtfStickyHeaderHeight":0,"edgtfStickyHeaderTransparencyHeight":70,"edgtfTopBarHeight":0,"edgtfLogoAreaHeight":116,"edgtfMenuAreaHeight":116,"edgtfMobileHeaderHeight":70}};--}}
+    {{--var edgtfPerPageVars = {"vars":{"edgtfStickyScrollAmount":0,"edgtfHeaderTransparencyHeight":232,"edgtfHeaderVerticalWidth":0}};--}}
+    {{--/* ]]> */--}}
+{{--</script>--}}
 <script type="text/javascript" src="{{asset('/voevod/assets/modules.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/wp-embed.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/js_composer_front.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/underscore.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/wp-util.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('/voevod/assets/add-to-cart-variation.min.js')}}"></script>
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/wp-embed.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/js_composer_front.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/underscore.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/wp-util.min.js')}}"></script>--}}
+{{--<script type="text/javascript" src="{{asset('/voevod/assets/add-to-cart-variation.min.js')}}"></script>--}}
 
 @yield('scripts')
 
