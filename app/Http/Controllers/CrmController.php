@@ -30,18 +30,18 @@ class CrmController extends Controller
         $category_product = $crmAPI->getDataFromApi('/product/category');
 
         $listRepresentationOfEachProduct = [];
-        foreach($category_product['data'] as $category) {
-
-            $representation = $crmAPI->getDataFromApi('/product/list',[
-                'page' => '1',
-                'page_size' => 10,
-                'category_id' => $category['id']
-            ]);
-            $obj['data'] = $representation['data'][rand(0,count($representation['data'])-1)];
-            $obj['category'] = $category['name'];
-            $obj['category_id'] = $category['id'];
-            $listRepresentationOfEachProduct[] = $obj;
-        }
+//        foreach($category_product['data'] as $category) {
+//
+//            $representation = $crmAPI->getDataFromApi('/product/list',[
+//                'page' => '1',
+//                'page_size' => 10,
+//                'category_id' => $category['id']
+//            ]);
+//            $obj['data'] = $representation['data'][rand(0,count($representation['data'])-1)];
+//            $obj['category'] = $category['name'];
+//            $obj['category_id'] = $category['id'];
+//            $listRepresentationOfEachProduct[] = $obj;
+//        }
         return view('index.index',compact('listRepresentationOfEachProduct'));
     }
 
