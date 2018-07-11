@@ -4,7 +4,7 @@
 @section('header')
     @component('index.header_index') @endcomponent
 
-    @endsection
+@endsection
 
 @section('content')
     <div class="alert alert-success" style="display: none; text-align: center">
@@ -431,13 +431,13 @@
     </div>
 
     <!-- close div.content -->
-    @endsection
+@endsection
 
 @section('scripts')
     <script>
         @if(\Illuminate\Support\Facades\Session::has('success'))
-            localStorage.clear();
-            var html = "";
+        localStorage.clear();
+        var html = "";
         $('#number-product-in-card').text(0);
         $('#cart-information').empty();
         $('.alert-success').css('display','block');
@@ -448,6 +448,6 @@
             $(".alert-success").delay(5000).fadeOut();
         }
         <?php \Illuminate\Support\Facades\Session::forget('success') ?>
-            @endif
+        @endif
     </script>
-    @endsection
+@endsection

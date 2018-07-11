@@ -37,44 +37,44 @@
     <!-- Bootstrap -->
 {{--    <link href="{{asset('/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">--}}
 
-    <!--bootstrap tab-->
-    <link rel="stylesheet" href="{{asset('/bootstrap/tag/bootstrap-tagsinput.css')}}">
+<!--bootstrap tab-->
+    {{--    <link rel="stylesheet" href="{{asset('/bootstrap/tag/bootstrap-tagsinput.css')}}">--}}
 
 
-    <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="dns-prefetch" href="http://maps.googleapis.com/">
+    {{--<link rel="profile" href="http://gmpg.org/xfn/11">--}}
+    {{--<link rel="dns-prefetch" href="http://maps.googleapis.com/">--}}
     {{--<link rel="dns-prefetch" href="http://fonts.googleapis.com/">--}}
-    <link href="https://fonts.googleapis.com/css?family=Roboto&amp;subset=vietnamese" rel="stylesheet">
+    {{--<link href="https://fonts.googleapis.com/css?family=Roboto&amp;subset=vietnamese" rel="stylesheet">--}}
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
 
     <!-- Date time -->
-    <link rel="stylesheet" href="{{ asset('/daterangepicker/daterangepicker.css') }}">
-    <link rel="stylesheet" href="{{ URL::asset('/dist/css/bootstrap-datetimepicker.min.css') }}" />
+    {{--<link rel="stylesheet" href="{{ asset('/daterangepicker/daterangepicker.css') }}">--}}
+    {{--<link rel="stylesheet" href="{{ URL::asset('/dist/css/bootstrap-datetimepicker.min.css') }}" />--}}
 
 
 
 
-    <link rel="dns-prefetch" href="http://s.w.org/">
-    <link href="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/md5.js">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
+    {{--<link rel="dns-prefetch" href="http://s.w.org/">--}}
+    {{--<link href="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/md5.js">--}}
+    {{--<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />--}}
     <script type="text/javascript" src="{{asset('/voevod/assets/jquery.js')}}"></script>
 
-    <script src="{{ asset('js/notify.min.js') }}"></script>
+    {{--    <script src="{{ asset('js/notify.min.js') }}"></script>--}}
 
 
-    <script type="text/javascript" src="{{asset('/voevod/assets/jquery-migrate.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('/voevod/assets/jquery.themepunch.tools.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('/voevod/assets/jquery.themepunch.revolution.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('/voevod/assets/add-to-cart.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('/voevod/assets/woocommerce-add-to-cart.js')}}"></script>
+    {{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery-migrate.min.js')}}"></script>--}}
+    {{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.themepunch.tools.min.js')}}"></script>--}}
+    {{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.themepunch.revolution.min.js')}}"></script>--}}
+    {{--<script type="text/javascript" src="{{asset('/voevod/assets/add-to-cart.min.js')}}"></script>--}}
+    {{--<script type="text/javascript" src="{{asset('/voevod/assets/woocommerce-add-to-cart.js')}}"></script>--}}
     <script type="text/javascript" src="{{asset('/voevod/assets/mediaelement-and-player.min.js')}}"></script>
     <script type="text/javascript" src="{{asset('/voevod/assets/mediaelement-migrate.min.js')}}"></script>
 
     <link rel="icon" href="http://voevod.edge-themes.com/wp-content/uploads/2018/01/cropped-favicon-32x32.png" sizes="32x32">
     <link rel="icon" href="http://voevod.edge-themes.com/wp-content/uploads/2018/01/cropped-favicon-192x192.png" sizes="192x192">
-    <link rel="apple-touch-icon-precomposed" href="http://voevod.edge-themes.com/wp-content/uploads/2018/01/cropped-favicon-180x180.png">
-    <meta name="msapplication-TileImage" content="http://voevod.edge-themes.com/wp-content/uploads/2018/01/cropped-favicon-270x270.png">
+    {{--<link rel="apple-touch-icon-precomposed" href="http://voevod.edge-themes.com/wp-content/uploads/2018/01/cropped-favicon-180x180.png">--}}
+    {{--<meta name="msapplication-TileImage" content="http://voevod.edge-themes.com/wp-content/uploads/2018/01/cropped-favicon-270x270.png">--}}
     <style id='voevod_edge_woo-inline-css' type='text/css'>
         .page-id-1300.edgtf-boxed .edgtf-wrapper { background-attachment: fixed;}
 
@@ -90,7 +90,7 @@
             padding-right: 0px !important;
         }
     </style>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+    {{--<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>--}}
     <script>
         //paste this code under head tag or in a seperate js file.
         // Wait for window load
@@ -127,7 +127,7 @@
         @yield('header')
 
         @component('component.goToTop')@endcomponent
-       @yield('content')
+        @yield('content')
 
         {{--Footer    --}}
         @component('component.footer') @endcomponent
@@ -168,11 +168,11 @@
 
 
 <!-- AdminLTE App -->
-<script src="{{ URL::asset('/datepicker/moment-with-locales.min.js') }}"></script>
-<script src="{{ asset('/datepicker/bootstrap-datepicker.js') }}"></script>
-<script src="{{ URL::asset('/js/bootstrap-datetimepicker.min.js') }}"></script>
-<script src="{{ asset('/daterangepicker/daterangepicker.js') }}"></script>
-<script src="{{ asset('/js/notify.js') }}"></script>
+{{--<script src="{{ URL::asset('/datepicker/moment-with-locales.min.js') }}"></script>--}}
+{{--<script src="{{ asset('/datepicker/bootstrap-datepicker.js') }}"></script>--}}
+{{--<script src="{{ URL::asset('/js/bootstrap-datetimepicker.min.js') }}"></script>--}}
+{{--<script src="{{ asset('/daterangepicker/daterangepicker.js') }}"></script>--}}
+{{--<script src="{{ asset('/js/notify.js') }}"></script>--}}
 
 <script type="text/javascript" src="{{asset('/js/addToCart.js?v=5')}}"></script>
 <script type="text/javascript" src="{{asset('/js/init.js')}}"></script>
@@ -183,8 +183,6 @@
 {{--<script type="text/javascript" src="{{asset('/voevod/assets/scripts.js')}}"></script>--}}
 {{--<script type="text/javascript" src="{{asset('/voevod/assets/jquery.blockUI.min.js')}}"></script>--}}
 {{--<script type="text/javascript" src="{{asset('/voevod/assets/js.cookie.min.js')}}"></script>--}}
-
-{{--<script type="text/javascript" src="{{asset('/voevod/assets/woocommerce.min.js')}}"></script>--}}
 
 {{--<script type="text/javascript" src="{{asset('/voevod/assets/cart-fragments.min.js')}}"></script>--}}
 
@@ -230,10 +228,10 @@
 
 {{--<script type="text/javascript" src="{{asset('/voevod/assets/js')}}"></script>--}}
 {{--<script type="text/javascript">--}}
-    {{--/* <![CDATA[ */--}}
-    {{--var edgtfGlobalVars = {"vars":{"edgtfAddForAdminBar":0,"edgtfElementAppearAmount":-100,"edgtfAjaxUrl":"http:\/\/voevod.edge-themes.com\/wp-admin\/admin-ajax.php","edgtfStickyHeaderHeight":0,"edgtfStickyHeaderTransparencyHeight":70,"edgtfTopBarHeight":0,"edgtfLogoAreaHeight":116,"edgtfMenuAreaHeight":116,"edgtfMobileHeaderHeight":70}};--}}
-    {{--var edgtfPerPageVars = {"vars":{"edgtfStickyScrollAmount":0,"edgtfHeaderTransparencyHeight":232,"edgtfHeaderVerticalWidth":0}};--}}
-    {{--/* ]]> */--}}
+{{--/* <![CDATA[ */--}}
+{{--var edgtfGlobalVars = {"vars":{"edgtfAddForAdminBar":0,"edgtfElementAppearAmount":-100,"edgtfAjaxUrl":"http:\/\/voevod.edge-themes.com\/wp-admin\/admin-ajax.php","edgtfStickyHeaderHeight":0,"edgtfStickyHeaderTransparencyHeight":70,"edgtfTopBarHeight":0,"edgtfLogoAreaHeight":116,"edgtfMenuAreaHeight":116,"edgtfMobileHeaderHeight":70}};--}}
+{{--var edgtfPerPageVars = {"vars":{"edgtfStickyScrollAmount":0,"edgtfHeaderTransparencyHeight":232,"edgtfHeaderVerticalWidth":0}};--}}
+{{--/* ]]> */--}}
 {{--</script>--}}
 <script type="text/javascript" src="{{asset('/voevod/assets/modules.min.js')}}"></script>
 {{--<script type="text/javascript" src="{{asset('/voevod/assets/wp-embed.min.js')}}"></script>--}}
