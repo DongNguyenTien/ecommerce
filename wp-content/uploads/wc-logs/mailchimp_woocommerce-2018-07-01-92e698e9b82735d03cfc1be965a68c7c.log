@@ -1,0 +1,347 @@
+2018-07-01T10:42:44+00:00 NOTICE sync.started :: Starting Sync :: Sun, Jul 1, 2018 3:42 AM
+2018-07-01T10:42:53+00:00 NOTICE product_sync.success :: addStoreProduct :: #109
+2018-07-01T10:42:54+00:00 NOTICE product_sync.success :: addStoreProduct :: #119
+2018-07-01T10:42:56+00:00 NOTICE product_sync.success :: addStoreProduct :: #130
+2018-07-01T10:42:58+00:00 NOTICE product_sync.success :: addStoreProduct :: #142
+2018-07-01T10:43:00+00:00 NOTICE product_sync.success :: addStoreProduct :: #154
+2018-07-01T10:43:03+00:00 NOTICE product_sync.success :: addStoreProduct :: #166
+2018-07-01T10:43:05+00:00 NOTICE product_sync.success :: addStoreProduct :: #173
+2018-07-01T10:43:06+00:00 NOTICE product_sync.success :: addStoreProduct :: #186
+2018-07-01T10:43:08+00:00 NOTICE product_sync.success :: addStoreProduct :: #193
+2018-07-01T10:43:09+00:00 NOTICE product_sync.success :: addStoreProduct :: #202
+2018-07-01T10:43:13+00:00 NOTICE product_sync.success :: addStoreProduct :: #249
+2018-07-01T10:43:14+00:00 NOTICE product_sync.success :: addStoreProduct :: #260
+2018-07-01T10:43:15+00:00 NOTICE product_sync.success :: addStoreProduct :: #268
+2018-07-01T10:43:17+00:00 NOTICE product_sync.success :: addStoreProduct :: #277
+2018-07-01T10:43:18+00:00 NOTICE product_sync.success :: addStoreProduct :: #284
+2018-07-01T10:43:22+00:00 NOTICE product_sync.success :: addStoreProduct :: #289
+2018-07-01T10:43:23+00:00 NOTICE product_sync.success :: addStoreProduct :: #290
+2018-07-01T10:43:24+00:00 NOTICE product_sync.success :: addStoreProduct :: #298
+2018-07-01T10:43:26+00:00 NOTICE product_sync.success :: addStoreProduct :: #300
+2018-07-01T10:43:27+00:00 NOTICE product_sync.success :: addStoreProduct :: #304
+2018-07-01T10:43:30+00:00 NOTICE product_sync.success :: addStoreProduct :: #310
+2018-07-01T10:43:32+00:00 NOTICE product_sync.success :: addStoreProduct :: #311
+2018-07-01T10:43:33+00:00 NOTICE product_sync.success :: addStoreProduct :: #312
+2018-07-01T10:43:35+00:00 NOTICE product_sync.success :: addStoreProduct :: #317
+2018-07-01T10:43:36+00:00 NOTICE product_sync.success :: addStoreProduct :: #320
+2018-07-01T10:43:40+00:00 NOTICE product_sync.success :: addStoreProduct :: #323
+2018-07-01T10:43:42+00:00 NOTICE product_sync.success :: addStoreProduct :: #324
+2018-07-01T10:43:43+00:00 NOTICE product_sync.success :: addStoreProduct :: #327
+2018-07-01T10:43:44+00:00 NOTICE product_sync.success :: addStoreProduct :: #331
+2018-07-01T10:43:46+00:00 NOTICE product_sync.success :: addStoreProduct :: #336
+2018-07-01T10:43:49+00:00 NOTICE product_sync.success :: addStoreProduct :: #341
+2018-07-01T10:43:51+00:00 NOTICE product_sync.success :: addStoreProduct :: #342
+2018-07-01T10:43:52+00:00 NOTICE product_sync.success :: addStoreProduct :: #354
+2018-07-01T10:43:54+00:00 NOTICE product_sync.success :: addStoreProduct :: #355
+2018-07-01T10:43:55+00:00 NOTICE product_sync.success :: addStoreProduct :: #360
+2018-07-01T10:43:58+00:00 NOTICE product_sync.success :: addStoreProduct :: #365
+2018-07-01T10:44:00+00:00 NOTICE product_sync.success :: addStoreProduct :: #1076
+2018-07-01T10:44:01+00:00 NOTICE product_sync.success :: addStoreProduct :: #1078
+2018-07-01T10:44:02+00:00 NOTICE product_sync.success :: addStoreProduct :: #1080
+2018-07-01T10:44:04+00:00 NOTICE product_sync.success :: addStoreProduct :: #1094
+2018-07-01T10:44:07+00:00 NOTICE product_sync.success :: addStoreProduct :: #1096
+2018-07-01T10:44:08+00:00 NOTICE product_sync.success :: addStoreProduct :: #1243
+2018-07-01T10:44:10+00:00 NOTICE product_sync.success :: addStoreProduct :: #1245
+2018-07-01T10:44:11+00:00 NOTICE product_sync.success :: addStoreProduct :: #1246
+2018-07-01T10:44:13+00:00 NOTICE product_sync.success :: addStoreProduct :: #1248
+2018-07-01T10:44:15+00:00 NOTICE product_sync.success :: addStoreProduct :: #1250
+2018-07-01T10:44:16+00:00 NOTICE product_sync.success :: addStoreProduct :: #1252
+2018-07-01T10:44:17+00:00 NOTICE product_sync.success :: addStoreProduct :: #2601
+2018-07-01T10:44:19+00:00 NOTICE product_sync.success :: addStoreProduct :: #2602
+2018-07-01T10:44:20+00:00 NOTICE product_sync.success :: addStoreProduct :: #2603
+2018-07-01T10:44:23+00:00 NOTICE product_sync.success :: addStoreProduct :: #2604
+2018-07-01T10:44:25+00:00 NOTICE product_sync.success :: addStoreProduct :: #2605
+2018-07-01T10:44:26+00:00 NOTICE product_sync.success :: addStoreProduct :: #2607
+2018-07-01T10:44:28+00:00 NOTICE product_sync.success :: addStoreProduct :: #2608
+2018-07-01T10:44:29+00:00 NOTICE product_sync.success :: addStoreProduct :: #2609
+2018-07-01T10:44:33+00:00 NOTICE product_sync.success :: addStoreProduct :: #2610
+2018-07-01T10:44:34+00:00 NOTICE product_sync.success :: addStoreProduct :: #2611
+2018-07-01T10:44:36+00:00 NOTICE product_sync.success :: addStoreProduct :: #2612
+2018-07-01T10:44:37+00:00 NOTICE product_sync.success :: addStoreProduct :: #2613
+2018-07-01T10:44:39+00:00 NOTICE product_sync.success :: addStoreProduct :: #2614
+2018-07-01T10:44:41+00:00 NOTICE product_sync.success :: addStoreProduct :: #2615
+2018-07-01T10:44:42+00:00 NOTICE product_sync.success :: addStoreProduct :: #2616
+2018-07-01T10:44:44+00:00 NOTICE product_sync.success :: addStoreProduct :: #2617
+2018-07-01T10:44:45+00:00 NOTICE product_sync.success :: addStoreProduct :: #2867
+2018-07-01T10:44:47+00:00 NOTICE product_sync.success :: addStoreProduct :: #2874
+2018-07-01T10:44:48+00:00 NOTICE product_sync.success :: addStoreProduct :: #2881
+2018-07-01T10:44:50+00:00 NOTICE product_sync.success :: addStoreProduct :: #2887
+2018-07-01T10:44:51+00:00 NOTICE product_sync.success :: addStoreProduct :: #2893
+2018-07-01T10:44:53+00:00 NOTICE product_sync.success :: addStoreProduct :: #2899
+2018-07-01T10:44:54+00:00 NOTICE product_sync.success :: addStoreProduct :: #2904
+2018-07-01T10:44:57+00:00 NOTICE product_sync.success :: addStoreProduct :: #2913
+2018-07-01T10:44:58+00:00 NOTICE product_sync.success :: addStoreProduct :: #2920
+2018-07-01T10:44:59+00:00 NOTICE product_sync.success :: addStoreProduct :: #2926
+2018-07-01T10:45:01+00:00 NOTICE product_sync.success :: addStoreProduct :: #2933
+2018-07-01T10:45:02+00:00 NOTICE product_sync.success :: addStoreProduct :: #2944
+2018-07-01T10:45:04+00:00 NOTICE product_sync.success :: addStoreProduct :: #2952
+2018-07-01T10:45:05+00:00 NOTICE product_sync.success :: addStoreProduct :: #2959
+2018-07-01T10:45:07+00:00 NOTICE product_sync.success :: addStoreProduct :: #2963
+2018-07-01T10:45:08+00:00 NOTICE product_sync.success :: addStoreProduct :: #2973
+2018-07-01T10:45:09+00:00 NOTICE product_sync.success :: addStoreProduct :: #2982
+2018-07-01T10:45:11+00:00 NOTICE product_sync.success :: addStoreProduct :: #2983
+2018-07-01T10:45:13+00:00 NOTICE product_sync.success :: addStoreProduct :: #2989
+2018-07-01T10:45:14+00:00 NOTICE product_sync.success :: addStoreProduct :: #2992
+2018-07-01T10:45:15+00:00 NOTICE product_sync.success :: addStoreProduct :: #2995
+2018-07-01T10:45:17+00:00 NOTICE product_sync.success :: addStoreProduct :: #2997
+2018-07-01T10:45:20+00:00 NOTICE product_sync.success :: addStoreProduct :: #2999
+2018-07-01T10:45:21+00:00 NOTICE product_sync.success :: addStoreProduct :: #3003
+2018-07-01T10:45:22+00:00 NOTICE product_sync.success :: addStoreProduct :: #3005
+2018-07-01T10:45:24+00:00 NOTICE product_sync.success :: addStoreProduct :: #3013
+2018-07-01T10:45:25+00:00 NOTICE product_sync.success :: addStoreProduct :: #3016
+2018-07-01T10:45:27+00:00 NOTICE product_sync.success :: addStoreProduct :: #3028
+2018-07-01T10:45:28+00:00 NOTICE product_sync.success :: addStoreProduct :: #3037
+2018-07-01T10:45:29+00:00 NOTICE product_sync.success :: addStoreProduct :: #3044
+2018-07-01T10:45:31+00:00 NOTICE product_sync.success :: addStoreProduct :: #3053
+2018-07-01T10:45:32+00:00 NOTICE product_sync.success :: addStoreProduct :: #3057
+2018-07-01T10:45:34+00:00 NOTICE product_sync.success :: addStoreProduct :: #3063
+2018-07-01T10:45:35+00:00 NOTICE product_sync.success :: addStoreProduct :: #3070
+2018-07-01T10:45:36+00:00 NOTICE product_sync.success :: addStoreProduct :: #3075
+2018-07-01T10:45:38+00:00 NOTICE product_sync.success :: addStoreProduct :: #3084
+2018-07-01T10:45:39+00:00 NOTICE product_sync.success :: addStoreProduct :: #3091
+2018-07-01T10:45:42+00:00 NOTICE product_sync.success :: addStoreProduct :: #3096
+2018-07-01T10:45:44+00:00 NOTICE product_sync.success :: addStoreProduct :: #3104
+2018-07-01T10:45:45+00:00 NOTICE product_sync.success :: addStoreProduct :: #3113
+2018-07-01T10:45:46+00:00 NOTICE product_sync.success :: addStoreProduct :: #3119
+2018-07-01T10:45:48+00:00 NOTICE product_sync.success :: addStoreProduct :: #3127
+2018-07-01T10:45:49+00:00 NOTICE product_sync.success :: addStoreProduct :: #3134
+2018-07-01T10:45:51+00:00 NOTICE product_sync.success :: addStoreProduct :: #3144
+2018-07-01T10:45:52+00:00 NOTICE product_sync.success :: addStoreProduct :: #3151
+2018-07-01T10:45:53+00:00 NOTICE product_sync.success :: addStoreProduct :: #3155
+2018-07-01T10:45:55+00:00 NOTICE product_sync.success :: addStoreProduct :: #3157
+2018-07-01T10:45:56+00:00 NOTICE product_sync.success :: addStoreProduct :: #3164
+2018-07-01T10:45:58+00:00 NOTICE product_sync.success :: addStoreProduct :: #3170
+2018-07-01T10:45:59+00:00 NOTICE product_sync.success :: addStoreProduct :: #3176
+2018-07-01T10:46:01+00:00 NOTICE product_sync.completed :: Done with the product sync :: queuing up the orders next!
+2018-07-01T10:46:09+00:00 ERROR order_submit.error :: addStoreOrder :: 1668 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:10+00:00 ERROR order_submit.error :: addStoreOrder :: 1707 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:12+00:00 ERROR order_submit.error :: addStoreOrder :: 1712 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:13+00:00 ERROR order_submit.error :: addStoreOrder :: 1720 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:17+00:00 ERROR order_submit.error :: addStoreOrder :: 2808 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:19+00:00 ERROR order_submit.error :: addStoreOrder :: 1721 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:20+00:00 ERROR order_submit.error :: addStoreOrder :: 1722 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:21+00:00 ERROR order_submit.error :: addStoreOrder :: 2207 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:22+00:00 ERROR order_submit.error :: addStoreOrder :: 1753 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:26+00:00 ERROR order_submit.error :: addStoreOrder :: 1754 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:29+00:00 ERROR order_submit.error :: addStoreOrder :: 1760 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:30+00:00 ERROR order_submit.error :: addStoreOrder :: 2809 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:38+00:00 ERROR order_submit.error :: addStoreOrder :: 2810 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:38+00:00 ERROR order_submit.error :: addStoreOrder :: 2810 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:39+00:00 ERROR order_submit.error :: addStoreOrder :: 1766 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:39+00:00 ERROR order_submit.error :: addStoreOrder :: 1766 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:41+00:00 ERROR order_submit.error :: addStoreOrder :: 1767 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:41+00:00 ERROR order_submit.error :: addStoreOrder :: 1767 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:44+00:00 ERROR order_submit.error :: addStoreOrder :: 1769 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:45+00:00 ERROR order_submit.error :: addStoreOrder :: 1771 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:46+00:00 ERROR order_submit.error :: addStoreOrder :: 2810 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:47+00:00 ERROR order_submit.error :: addStoreOrder :: 1772 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:47+00:00 ERROR order_submit.error :: addStoreOrder :: 1766 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:48+00:00 ERROR order_submit.error :: addStoreOrder :: 1773 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:48+00:00 ERROR order_submit.error :: addStoreOrder :: 1767 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:49+00:00 ERROR order_submit.error :: addStoreOrder :: 1775 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:52+00:00 ERROR order_submit.error :: addStoreOrder :: 1769 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:53+00:00 ERROR order_submit.error :: addStoreOrder :: 2811 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:53+00:00 ERROR order_submit.error :: addStoreOrder :: 1771 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:54+00:00 ERROR order_submit.error :: addStoreOrder :: 1776 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:54+00:00 ERROR order_submit.error :: addStoreOrder :: 1772 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:55+00:00 ERROR order_submit.error :: addStoreOrder :: 1777 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:56+00:00 ERROR order_submit.error :: addStoreOrder :: 1773 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:57+00:00 ERROR order_submit.error :: addStoreOrder :: 1778 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:57+00:00 ERROR order_submit.error :: addStoreOrder :: 1775 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:46:58+00:00 ERROR order_submit.error :: addStoreOrder :: 1779 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:02+00:00 ERROR order_submit.error :: addStoreOrder :: 1780 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:06+00:00 ERROR order_submit.error :: addStoreOrder :: 2813 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:09+00:00 ERROR order_submit.error :: addStoreOrder :: 2814 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:11+00:00 ERROR order_submit.error :: addStoreOrder :: 1794 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:13+00:00 ERROR order_submit.error :: addStoreOrder :: 1795 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:17+00:00 ERROR order_submit.error :: addStoreOrder :: 1797 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:18+00:00 ERROR order_submit.error :: addStoreOrder :: 1798 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:21+00:00 ERROR order_submit.error :: addStoreOrder :: 2816 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:22+00:00 ERROR order_submit.error :: addStoreOrder :: 1800 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:28+00:00 ERROR order_submit.error :: addStoreOrder :: 1801 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:29+00:00 ERROR order_submit.error :: addStoreOrder :: 1802 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:30+00:00 ERROR order_submit.error :: addStoreOrder :: 1803 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:32+00:00 ERROR order_submit.error :: addStoreOrder :: 1805 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:33+00:00 ERROR order_submit.error :: addStoreOrder :: 2817 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:36+00:00 ERROR order_submit.error :: addStoreOrder :: 1807 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:37+00:00 ERROR order_submit.error :: addStoreOrder :: 2818 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:39+00:00 ERROR order_submit.error :: addStoreOrder :: 2819 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:40+00:00 ERROR order_submit.error :: addStoreOrder :: 1808 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:41+00:00 ERROR order_submit.error :: addStoreOrder :: 1809 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:45+00:00 ERROR order_submit.error :: addStoreOrder :: 2820 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:46+00:00 ERROR order_submit.error :: addStoreOrder :: 1811 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:48+00:00 ERROR order_submit.error :: addStoreOrder :: 2821 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:49+00:00 ERROR order_submit.error :: addStoreOrder :: 1821 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:54+00:00 ERROR order_submit.error :: addStoreOrder :: 2001 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:55+00:00 ERROR order_submit.error :: addStoreOrder :: 1822 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:57+00:00 ERROR order_submit.error :: addStoreOrder :: 1824 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:47:58+00:00 ERROR order_submit.error :: addStoreOrder :: 2002 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:03+00:00 ERROR order_submit.error :: addStoreOrder :: 1842 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:05+00:00 ERROR order_submit.error :: addStoreOrder :: 1844 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:06+00:00 ERROR order_submit.error :: addStoreOrder :: 1847 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:09+00:00 ERROR order_submit.error :: addStoreOrder :: 1848 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:11+00:00 ERROR order_submit.error :: addStoreOrder :: 2012 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:12+00:00 ERROR order_submit.error :: addStoreOrder :: 1849 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:13+00:00 ERROR order_submit.error :: addStoreOrder :: 1850 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:14+00:00 ERROR order_submit.error :: addStoreOrder :: 1852 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:20+00:00 ERROR order_submit.error :: addStoreOrder :: 1853 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:21+00:00 ERROR order_submit.error :: addStoreOrder :: 1854 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:23+00:00 ERROR order_submit.error :: addStoreOrder :: 1858 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:28+00:00 ERROR order_submit.error :: addStoreOrder :: 1862 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:31+00:00 ERROR order_submit.error :: addStoreOrder :: 1866 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:32+00:00 ERROR order_submit.error :: addStoreOrder :: 1867 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:36+00:00 ERROR order_submit.error :: addStoreOrder :: 1868 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:37+00:00 ERROR order_submit.error :: addStoreOrder :: 1869 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:38+00:00 ERROR order_submit.error :: addStoreOrder :: 1870 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:40+00:00 ERROR order_submit.error :: addStoreOrder :: 1871 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:41+00:00 ERROR order_submit.error :: addStoreOrder :: 1872 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:47+00:00 ERROR order_submit.error :: addStoreOrder :: 1875 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:50+00:00 ERROR order_submit.error :: addStoreOrder :: 1877 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:54+00:00 ERROR order_submit.error :: addStoreOrder :: 1880 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:55+00:00 ERROR order_submit.error :: addStoreOrder :: 1881 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:57+00:00 ERROR order_submit.error :: addStoreOrder :: 1884 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:48:58+00:00 ERROR order_submit.error :: addStoreOrder :: 1892 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:02+00:00 ERROR order_submit.error :: addStoreOrder :: 2822 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:05+00:00 ERROR order_submit.error :: addStoreOrder :: 1895 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:06+00:00 ERROR order_submit.error :: addStoreOrder :: 2823 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:12+00:00 ERROR order_submit.error :: addStoreOrder :: 2824 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:13+00:00 ERROR order_submit.error :: addStoreOrder :: 1897 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:19+00:00 ERROR order_submit.error :: addStoreOrder :: 1903 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:21+00:00 ERROR order_submit.error :: addStoreOrder :: 1904 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:22+00:00 ERROR order_submit.error :: addStoreOrder :: 1905 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:23+00:00 ERROR order_submit.error :: addStoreOrder :: 1906 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:24+00:00 ERROR order_submit.error :: addStoreOrder :: 1907 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:28+00:00 ERROR order_submit.error :: addStoreOrder :: 1908 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:30+00:00 ERROR order_submit.error :: addStoreOrder :: 1910 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:31+00:00 ERROR order_submit.error :: addStoreOrder :: 1914 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:37+00:00 ERROR order_submit.error :: addStoreOrder :: 1919 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:38+00:00 ERROR order_submit.error :: addStoreOrder :: 1919 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:39+00:00 ERROR order_submit.error :: addStoreOrder :: 2214 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:39+00:00 ERROR order_submit.error :: addStoreOrder :: 2214 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:40+00:00 ERROR order_submit.error :: addStoreOrder :: 2215 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:41+00:00 ERROR order_submit.error :: addStoreOrder :: 2215 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:42+00:00 ERROR order_submit.error :: addStoreOrder :: 2216 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:43+00:00 ERROR order_submit.error :: addStoreOrder :: 2216 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:46+00:00 ERROR order_submit.error :: addStoreOrder :: 2217 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:47+00:00 ERROR order_submit.error :: addStoreOrder :: 1919 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:48+00:00 ERROR order_submit.error :: addStoreOrder :: 2218 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:48+00:00 ERROR order_submit.error :: addStoreOrder :: 2214 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:49+00:00 ERROR order_submit.error :: addStoreOrder :: 2215 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:50+00:00 ERROR order_submit.error :: addStoreOrder :: 2219 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:52+00:00 ERROR order_submit.error :: addStoreOrder :: 2220 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:52+00:00 ERROR order_submit.error :: addStoreOrder :: 2216 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:56+00:00 ERROR order_submit.error :: addStoreOrder :: 2221 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:56+00:00 ERROR order_submit.error :: addStoreOrder :: 2217 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:57+00:00 ERROR order_submit.error :: addStoreOrder :: 2222 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:58+00:00 ERROR order_submit.error :: addStoreOrder :: 2223 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:49:58+00:00 ERROR order_submit.error :: addStoreOrder :: 2218 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:00+00:00 ERROR order_submit.error :: addStoreOrder :: 2224 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:01+00:00 ERROR order_submit.error :: addStoreOrder :: 2219 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:02+00:00 ERROR order_submit.error :: addStoreOrder :: 2220 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:08+00:00 ERROR order_submit.error :: addStoreOrder :: 2221 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:09+00:00 ERROR order_submit.error :: addStoreOrder :: 2222 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:10+00:00 ERROR order_submit.error :: addStoreOrder :: 2223 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:12+00:00 ERROR order_submit.error :: addStoreOrder :: 2224 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:17+00:00 ERROR order_submit.error :: addStoreOrder :: 2225 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:18+00:00 ERROR order_submit.error :: addStoreOrder :: 2825 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:19+00:00 ERROR order_submit.error :: addStoreOrder :: 2226 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:21+00:00 ERROR order_submit.error :: addStoreOrder :: 2227 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:27+00:00 ERROR order_submit.error :: addStoreOrder :: 2826 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:28+00:00 ERROR order_submit.error :: addStoreOrder :: 2827 :: <p>: Required fields were not provided: lines</p> on 1310 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T10:50:32+00:00 NOTICE order_submit.completed :: Done with the order sync.
+2018-07-01T10:50:32+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Jul 1, 2018 3:50 AM
+2018-07-01T11:00:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #3197
+2018-07-01T11:00:45+00:00 NOTICE product_submit.success :: addStoreProduct :: #3197
+2018-07-01T11:01:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #3197
+2018-07-01T11:02:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #3197
+2018-07-01T11:03:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #3201
+2018-07-01T11:05:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #3201
+2018-07-01T11:05:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #3201
+2018-07-01T11:06:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #3205
+2018-07-01T11:07:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #3205
+2018-07-01T11:07:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #3210
+2018-07-01T11:08:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #3210
+2018-07-01T11:09:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #3210
+2018-07-01T11:09:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #3215
+2018-07-01T11:12:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #3215
+2018-07-01T11:13:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #3215
+2018-07-01T11:14:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #3221
+2018-07-01T11:15:37+00:00 NOTICE product_submit.success :: addStoreProduct :: #3221
+2018-07-01T11:15:54+00:00 NOTICE product_submit.success :: addStoreProduct :: #3225
+2018-07-01T11:16:51+00:00 NOTICE product_submit.success :: addStoreProduct :: #3225
+2018-07-01T11:17:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #3229
+2018-07-01T11:18:28+00:00 NOTICE product_submit.success :: addStoreProduct :: #3229
+2018-07-01T11:18:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #3234
+2018-07-01T11:19:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #3234
+2018-07-01T11:20:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #3234
+2018-07-01T11:20:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #3234
+2018-07-01T11:21:01+00:00 NOTICE product_submit.success :: addStoreProduct :: #3234
+2018-07-01T11:21:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #3239
+2018-07-01T11:22:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #3239
+2018-07-01T11:23:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #3244
+2018-07-01T11:23:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #3244
+2018-07-01T11:23:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #3245
+2018-07-01T11:24:56+00:00 NOTICE product_submit.success :: addStoreProduct :: #3245
+2018-07-01T11:26:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #3245
+2018-07-01T11:26:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #3250
+2018-07-01T11:29:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #3250
+2018-07-01T11:29:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #3250
+2018-07-01T11:30:03+00:00 NOTICE product_submit.success :: addStoreProduct :: #3259
+2018-07-01T11:32:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #3259
+2018-07-01T11:32:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #3259
+2018-07-01T11:32:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #3263
+2018-07-01T11:33:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #3259
+2018-07-01T11:34:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #3263
+2018-07-01T11:35:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #3273
+2018-07-01T11:36:51+00:00 NOTICE product_submit.success :: addStoreProduct :: #3274
+2018-07-01T11:36:51+00:00 NOTICE product_submit.error :: addStoreProduct :: #3274 :: We were unable to process the request. A product with the provided ID already exists in the account. on 1315 in E:\Projects\kuteshop\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2018-07-01T11:37:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #3273
+2018-07-01T11:38:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #3273
+2018-07-01T11:38:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #3274
+2018-07-01T11:52:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #3289
+2018-07-01T11:54:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #3289
+2018-07-01T11:54:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #3288
+2018-07-01T11:55:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #3288
+2018-07-01T11:55:31+00:00 NOTICE product_submit.success :: addStoreProduct :: #3298
+2018-07-01T11:57:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #3298
+2018-07-01T11:58:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #3301
+2018-07-01T11:59:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #3301
+2018-07-01T12:00:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #3305
+2018-07-01T12:02:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #3305
+2018-07-01T12:02:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #3305
+2018-07-01T12:03:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #3313
+2018-07-01T12:03:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #3314
+2018-07-01T12:04:06+00:00 NOTICE product_submit.success :: addStoreProduct :: #3314
+2018-07-01T12:04:50+00:00 NOTICE product_submit.success :: addStoreProduct :: #3313
+2018-07-01T12:04:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #3313
+2018-07-01T12:06:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #3314
+2018-07-01T14:35:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #3324
+2018-07-01T14:36:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #3324
+2018-07-01T14:37:51+00:00 NOTICE product_submit.success :: addStoreProduct :: #3324
+2018-07-01T14:38:45+00:00 NOTICE product_submit.success :: addStoreProduct :: #3329
+2018-07-01T14:40:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #3329
+2018-07-01T14:40:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #3329
+2018-07-01T14:41:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #3324
+2018-07-01T14:41:56+00:00 NOTICE product_submit.success :: addStoreProduct :: #3337
+2018-07-01T14:43:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #3337
+2018-07-01T14:43:40+00:00 NOTICE product_submit.success :: addStoreProduct :: #3337
+2018-07-01T14:44:44+00:00 NOTICE product_submit.success :: addStoreProduct :: #3339
+2018-07-01T14:44:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #3339
+2018-07-01T14:45:53+00:00 NOTICE product_submit.success :: addStoreProduct :: #3343
+2018-07-01T14:46:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #3339
+2018-07-01T14:46:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #3343
+2018-07-01T14:46:37+00:00 NOTICE product_submit.success :: addStoreProduct :: #3339
+2018-07-01T14:47:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #3347
+2018-07-01T14:48:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #3343
+2018-07-01T14:49:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #3347
+2018-07-01T14:50:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #3343
+2018-07-01T14:50:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #3353
+2018-07-01T14:51:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #3347
+2018-07-01T14:51:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #3353
+2018-07-01T14:52:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #3343
+2018-07-01T14:52:35+00:00 NOTICE product_submit.success :: addStoreProduct :: #3358
+2018-07-01T14:53:41+00:00 NOTICE product_submit.success :: addStoreProduct :: #3358
+2018-07-01T14:53:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #3363
+2018-07-01T14:55:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #3363
+2018-07-01T16:15:24+00:00 NOTICE order_submit.success :: addStoreOrder :: #3380 :: email: dongnguyentien1996@gmail.com :: landing site http://kuteshop.test/wp-admin/admin-ajax.php
+2018-07-01T16:15:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #365
